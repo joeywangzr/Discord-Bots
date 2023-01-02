@@ -1,0 +1,4 @@
+discord
+bs4
+requests
+lxml==3.3.3
